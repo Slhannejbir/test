@@ -493,19 +493,7 @@ const music_list = [
         img : 'images/79.jpg',
         name : 'Who is she ',
         artist : 'I Monster',
-        music : 'music/79.mp3'
-    },
-    {
-        img : 'images/80.jpg',
-        name : 'Who is She',
-        artist : 'remix',
         music : 'music/80.mp3'
-    },
-    {
-        img : 'images/81.jpg',
-        name : 'Revenge',
-        artist : 'xxtxtentacion',
-        music : 'music/81.mp3'
     }
 ];
 
