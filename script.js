@@ -40,7 +40,7 @@ const music_list = [
         music : 'music/3.mp3'
     },
     {
-        img : 'images/4.jpg',
+        img : 'images/yook.jpg',
         name : 'Limbo',
         artist : 'Freddie Dredd',
         music : 'music/4.mp3'
